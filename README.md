@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jimike110, still a newbie in tech 🙃
 - 👀 I’m interested in learning, I do have the zeal to learn
 - 🌱 I’m currently learning some programming languages like C, Python, Java.
-- 💞️ I’m looking to collaborate with people who would guide me 
+- 💞️ I’m looking to collaborate with people who would guide me through this journey of tech.
 - 📫 How to reach me --> oladoyemike@gmail.com
 
 <!---
