@@ -4,16 +4,18 @@
 🚀 Tech enthusiast | Frontend wizard 🎨 | Child of God 👼 | Future AI maestro 🤖
 
 ## 🌐 Socials:
+One link, all of me: [https://linktr.ee/jimike/](https://linktr.ee/jimike/)
+<!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-oladoye-91ba88225) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jimikeCodes) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/michael.oladoye.129) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jimike110) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@therealjimike)
-<!-- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/I)
+ [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/I)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](#) 
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](#) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](#) 
--->
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -32,6 +34,8 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
+-->
+
 # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Jimike110&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jimike110&theme=dark&hide_border=false)<br/>
@@ -47,10 +51,10 @@
 <!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Jimike110&theme=radical&no-frame=false&no-bg=true&margin-w=4)
--->
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=jimikeCodes)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+-->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
