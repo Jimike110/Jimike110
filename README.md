@@ -39,14 +39,14 @@ One link, all of me: [https://linktr.ee/jimike/](https://linktr.ee/jimike/)
 # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Jimike110&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jimike110&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimike110&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimike110&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jimike110&theme=dark&show_icons=true&locale=en&layout=compact&include_all_commits=true&count_private=true" alt="jimike110" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jimike110&theme=dark&layout=compact&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="jimike110" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jimike110&theme=dark&layout=compact&include_all_commits=true&count_private=true" alt="jimike110" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jimike110&theme=dark&include_all_commits=true&count_private=true" alt="jimike110" /></p>
 
 <!--
 ## 🏆 GitHub Trophies
