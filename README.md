@@ -3,6 +3,10 @@
 # 💫 About Me:
 🚀 Tech enthusiast | Frontend wizard 🎨 | Child of God 👼 | Future AI maestro 🤖
 
+# My Resume:
+### In English: [Click Here](https://docs.google.com/document/d/1B1bQrWD9sL14xdvcRl9wk6GdJXhu4JVFzwnMoegnohU/edit?usp=sharing)
+### На русском: [Нажмите Здесь](https://docs.google.com/document/d/1_5cC85QIXYsM0iLh4ZWAOKXNEMAXCvpzc8qFCB4juO0/edit?usp=sharing)
+
 ## 🌐 Socials:
 One link, all of me: [https://linktr.ee/jimike/](https://linktr.ee/jimike/)
 <!--
