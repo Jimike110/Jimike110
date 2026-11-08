@@ -2,13 +2,13 @@
 
 **Frontend developer · React, TypeScript & Next.js · Building full-stack apps with Go**
 
-[Portfolio](https://jimike.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/jimike) · [Habr](https://habr.com/ru/users/Jimike/)
+[Portfolio](https://jimike.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/jimike) 
 
 I'm a Nigerian developer studying Informatics and Computer Engineering at ITMO University in Saint Petersburg. I build web interfaces and the services behind them, with a focus on clear user journeys, reliable state management, and maintainable code. I work and collaborate in English and Russian.
 
 ## Experience
 
-**Frontend Developer Intern — Avito, CRM Communications**
+**Software Developer — Avito, CRM Communications**
 
 - Migrated the mobile Notification Center from a monolith into an independent microfrontend and integrated it into mobile web.
 - Worked on notification state management, including deduplication, retries, optimistic reads, and stale-data handling.
@@ -17,11 +17,12 @@ I'm a Nigerian developer studying Informatics and Computer Engineering at ITMO U
 
 ## Selected projects
 
-### Food ordering and kitchen dashboard
+### [Food ordering and kitchen dashboard]((https://github.com/Jimike110/shawarma-ordering/)
 
-Built a pickup-ordering app with a menu, cart, checkout, order tracking, and a kitchen dashboard. Added order statuses, product editing, preparation estimates, and controls to pause incoming orders.
+Built a pickup-ordering app with a menu, cart, checkout, order tracking, and a kitchen dashboard Android application and Telegram bot. Added order statuses, product editing, preparation estimates, and controls to pause incoming orders.
 
 **Stack:** React, TypeScript, Vite, Go, PostgreSQL, Docker Compose.
+[Live demo](https://shawarma-ordering.netlify.app/)
 
 ### ITMO.Connect
 
