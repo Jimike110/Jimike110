@@ -1,89 +1,71 @@
 # Hi, I'm Michael Oladoye 👋
 
-<a href="https://www.linkedin.com/in/jimike" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://jimike.netlify.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-</a>
+**Frontend developer · React, TypeScript & Next.js · Building full-stack apps with Go**
 
-## 🚀 Results-Driven Frontend Developer 
+[Portfolio](https://jimike.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/jimike) · [Habr](https://habr.com/ru/users/Jimike/)
 
-I'm a proactive Frontend Developer specializing in building high-performance, scalable web applications with **React, Next.js, and TypeScript**. I am passionate about creating intuitive user interfaces, optimizing for Core Web Vitals, and writing clean, maintainable code that drives business value. 
+I'm a Nigerian developer studying Informatics and Computer Engineering at ITMO University in Saint Petersburg. I build web interfaces and the services behind them, with a focus on clear user journeys, reliable state management, and maintainable code. I work and collaborate in English and Russian.
 
-I thrive on solving complex problems—whether it's building an enterprise-grade platform from scratch or resurrecting a legacy system to drive thousands of active users. As a finalist in major tech hackathons hosted by **Yandex** and **Sber**, I am always eager to tackle new challenges and collaborate with talented teams.
+## Experience
 
----
+**Frontend Developer Intern — Avito, CRM Communications**
 
-## 🛠️ My Tech Stack & Tools
+- Migrated the mobile Notification Center from a monolith into an independent microfrontend and integrated it into mobile web.
+- Worked on notification state management, including deduplication, retries, optimistic reads, and stale-data handling.
+- Improved A/B testing support for banner campaigns, including group resets and control-group parameters.
+- Built and refined mobile UI behavior, investigated iOS rendering issues, and collaborated across frontend and backend teams.
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Frontend:</strong>
-      <ul>
-        <li>React.js, Next.js</li>
-        <li>TypeScript, JavaScript (ES6+)</li>
-        <li>Redux & Redux Toolkit</li>
-        <li>Tailwind CSS, SASS/SCSS</li>
-        <li>HTML5, CSS3</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <strong>Backend, DB, & DevOps:</strong>
-      <ul>
-        <li>Node.js, RESTful APIs</li>
-        <li>PostgreSQL, Supabase</li>
-        <li>Git, GitHub, CI/CD</li>
-        <li>Docker, Vite</li>
-        <li>Jest, React Testing Library</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+## Selected projects
 
----
+### Food ordering and kitchen dashboard
 
-## ✨ My Key Projects
+Built a pickup-ordering app with a menu, cart, checkout, order tracking, and a kitchen dashboard. Added order statuses, product editing, preparation estimates, and controls to pause incoming orders.
 
-Here are some of the projects I'm most proud of.
+**Stack:** React, TypeScript, Vite, Go, PostgreSQL, Docker Compose.
 
-#### 1. Project Revival: cdaem.ru Platform
-▶ **Description:** Led the full technical modernization of a dormant real estate platform. Restored it from a non-functional state to a fully commercial service.
-▶ **Impact:** Attracted **1,500+ active users** and **5,000+ new listings** within 3 months of relaunch.
-▶ **Key Features:** Implemented a real-time chat between buyers and sellers, built new user dashboards, and fixed 100% of critical bugs in the payment and authentication systems.
+### ITMO.Connect
 
-#### 2. Kamchatka Adventures Booking Platform
-▶ **[Live Demo](https://kamchatka-adventures.netlify.app/)** | **[GitHub Repo](https://github.com/Jimike110/Kamchatka/)**
-▶ **Description:** An enterprise-level, full-stack booking platform for the adventure tourism market.
-▶ **Tech Stack:** React 18, TypeScript, Supabase, PostgreSQL, Tailwind CSS, Edge Functions.
-▶ **Features:** Real-time booking management, multi-currency payment support, and a role-based access model (admin, vendor, client).
+Built a mobile-first university community app with real-time communication, anonymous interactions, a staff directory, and administration tools. Implemented a Go backend, JWT authentication, and WebSocket connections.
 
-#### 3. Bankify - Modern Online Banking Interface
-▶ **[Live Demo](https://bankify-jimike.vercel.app/)** | **[GitHub Repo](https://github.com/Jimike110/bankify)**
-▶ **Description:** A showcase of a secure, high-performance UI/UX for a modern financial application.
-▶ **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Chart.js.
-▶ **Features:** Interactive and responsive data dashboards for account management, transaction history, and transfers.
+**Stack:** React, Go, PostgreSQL, WebSocket, Docker.
 
----
+### [Kamchatka Adventures](https://github.com/Jimike110/Kamchatka/)
 
-## 🏆 Achievements & Recognition
+Built a tourism booking platform with booking management and separate admin, vendor, and customer workflows.
 
-- **Finalist** | Hackathon "Sber x Prosto x ITMO" (2025)
-- **Semi-Finalist** | Hackathon "University Battle. Y&Y Cup" (Yandex, 2024)
+**Stack:** React, TypeScript, Supabase, PostgreSQL, Tailwind CSS.
 
----
+[Live demo](https://kamchatka-adventures.netlify.app/)
 
-## 📫 Let's Connect!
+### cdaem.ru — real estate platform
 
-I'm currently looking for new opportunities as a Frontend Developer. If you have an exciting project or role where I can contribute, let's talk!
+Modernized an existing real estate platform, restored core functionality, and developed buyer-seller chat and user dashboards. Worked on payment and authentication issues during the relaunch.
 
-- **Email:** [m.oladoye@yandex.com](mailto:m.oladoye@yandex.com)
-- **LinkedIn:** [linkedin.com/in/jimike](https://www.linkedin.com/in/jimike)
+### [Bankify](https://github.com/Jimike110/bankify)
 
----
+Built a banking interface with responsive account dashboards, transaction history, and transfer screens.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jimike110&show_icons=true&theme=dracula" alt="Michael's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jimike110&layout=compact&theme=dracula" alt="Top Languages" />
-</p>
+**Stack:** Next.js, React, TypeScript, Tailwind CSS, Chart.js.
+
+[Live demo](https://bankify-jimike.vercel.app/)
+
+## Tools I use
+
+| Area | Technologies |
+| --- | --- |
+| Frontend | React, Next.js, TypeScript, JavaScript, Redux Toolkit, HTML, CSS |
+| UI | Tailwind CSS, Ant Design, Styled-components, Sass |
+| Backend & data | Go, Node.js, REST APIs, PostgreSQL, Supabase, WebSocket |
+| Testing & observability | Jest, React Testing Library, Sentry |
+| Build & delivery | Git, Docker, GitHub Actions, Vite, Webpack, Nginx |
+
+## Beyond code
+
+- Finalist — Sber × Prosto × ITMO hackathon (2025).
+- Semifinalist — Yandex University Battle, Y&Y Cup (2024).
+- National winner — StudRussia, Global Compassion category.
+- Volunteer and community organizer, helping international students adapt to life and study in Russia.
+
+I'm interested in frontend and full-stack opportunities, useful products, and practical applications of AI.
+
+**Let's connect:** [m.oladoye@yandex.com](mailto:m.oladoye@yandex.com) · [LinkedIn](https://www.linkedin.com/in/jimike)
