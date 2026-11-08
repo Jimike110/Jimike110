@@ -17,7 +17,7 @@ I'm a Nigerian developer studying Informatics and Computer Engineering at ITMO U
 
 ## Selected projects
 
-### [Food ordering and kitchen dashboard]((https://github.com/Jimike110/shawarma-ordering/)
+### [Food ordering and kitchen dashboard](https://github.com/Jimike110/shawarma-ordering/)
 
 Built a pickup-ordering app with a menu, cart, checkout, order tracking, and a kitchen dashboard Android application and Telegram bot. Added order statuses, product editing, preparation estimates, and controls to pause incoming orders.
 
