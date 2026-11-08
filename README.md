@@ -70,7 +70,7 @@ Here are some of the projects I'm most proud of.
 ## 🏆 Achievements & Recognition
 
 - **Finalist** | Hackathon "Sber x Prosto x ITMO" (2025)
-- **Semi-Finalist** | Hackathon "University Battle. Y&Y Cup", Frontend Track (Yandex, 2024)
+- **Semi-Finalist** | Hackathon "University Battle. Y&Y Cup" (Yandex, 2024)
 
 ---
 
