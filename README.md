@@ -1,6 +1,6 @@
 # Hi, I'm Michael Oladoye 👋
 
-**Frontend developer · React, TypeScript & Next.js · Building full-stack apps with Go**
+**Frontend developer · React, TypeScript & Next.js · Building full-stack apps**
 
 [Portfolio](https://jimike.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/jimike) 
 
