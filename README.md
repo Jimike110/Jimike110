@@ -8,7 +8,7 @@ I'm a Nigerian developer studying Informatics and Computer Engineering at ITMO U
 
 ## Experience
 
-**Software Developer — Avito, CRM Communications**
+**Software Developer — Avito**
 
 - Migrated the mobile Notification Center from a monolith into an independent microfrontend and integrated it into mobile web.
 - Worked on notification state management, including deduplication, retries, optimistic reads, and stale-data handling.
